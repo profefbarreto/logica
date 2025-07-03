@@ -1,4 +1,6 @@
-nome = "Eduardo"
-idade = 37
+a = int(input("Digite um valor para a: "))
+b = int(input("Digite um valor para b: "))
 
-print(f"Meu nome é {nome} e tenho {idade} anos!")
+soma = a + b
+
+print(f"O resultado da soma é {soma}")
